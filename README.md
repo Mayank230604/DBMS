@@ -36,7 +36,7 @@ to ‘2018-01-02’.
 28. Find names of students who are born in 2001 and are enrolled in at least one society. 
 29. Count all societies whose name starts with ‘S’ and ends with ‘t’ and at least 5 students are enrolled in the society. 
 30. Display the following information: 
-Society name     Mentor name     Total Capacity    Total Enrolled    Unfilled Seats
+     Society name     Mentor name     Total Capacity    Total Enrolled    Unfilled Seats
 
 II.  Do the following database administration commands: 
 create user, create role, grant privileges to a role, revoke privileges from a role, create index
