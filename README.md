@@ -1,5 +1,6 @@
 ## Practical List
 I.  Create and use the following student-society database schema for a college to answer the given (sample) queries using the standalone SQL editor. 
+
 ![image](https://github.com/Mayank230604/DBMS_Practicals/assets/120153596/52478604-9dc2-47f0-8ac7-218db93ad154)
 
 Here Rollno (ENROLLMENT) and SID (ENROLLMENT) are foreign keys.
