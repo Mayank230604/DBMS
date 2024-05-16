@@ -1,7 +1,7 @@
 ## Practical List
 I.  Create and use the following student-society database schema for a college to answer the given (sample) queries using the standalone SQL editor. 
 
-    ![image](https://github.com/Mayank230604/DBMS_Practicals/assets/120153596/52478604-9dc2-47f0-8ac7-218db93ad154)
+![image](https://github.com/Mayank230604/DBMS_Practicals/assets/120153596/52478604-9dc2-47f0-8ac7-218db93ad154)
 
 Here Rollno (ENROLLMENT) and SID (ENROLLMENT) are foreign keys.
 
@@ -38,6 +38,7 @@ Here Rollno (ENROLLMENT) and SID (ENROLLMENT) are foreign keys.
      Society name     Mentor name     Total Capacity    Total Enrolled    Unfilled Seats
 
 II.  Do the following database administration commands: 
-      create user, create role, grant privileges to a role, revoke privileges from a role, create index
+
+    create user, create role, grant privileges to a role, revoke privileges from a role, create index
 
 III.  Execute queries given in part I through a high-level language using ODBC connection.
